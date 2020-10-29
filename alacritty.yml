@@ -1,0 +1,28 @@
+# Window Customization
+window:
+  dimensions:
+    columns: 140
+    lines: 38
+  padding:
+    x: 25
+    y: 25
+  decorations: none
+scrolling:
+  history: 10000
+  multiplier: 3
+background_opacity: 0.9
+window.dynamic_title: true
+
+font:
+  size: 13
+# Font Customization
+
+colors:
+  selection:
+    text: '0xffffff'
+    background: '0xdc3232'
+    white:   '0xffffff'
+cursor:
+  style: Block
+  unfocused_hollow: true
+
