@@ -37,4 +37,4 @@ gsettings set org.gnome.desktop.default-applications.terminal exec 'alacritty'
 # Remove temporary dir
 cd ..
 rm -r alacritty
-
+test
